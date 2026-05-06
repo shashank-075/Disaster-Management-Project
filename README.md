@@ -1,6 +1,6 @@
 # Disaster Management Project
 
-A Python-based application designed to help organizations manage employee safety during disaster events. This tool allows sending alerts via Email and SMS, tracking employee responses, and maintaining a dashboard overview.
+A Python-powered disaster response and employee safety management platform designed to help organizations act fast during emergencies. The application delivers real-time alerts through Email and SMS, tracks employee safety responses instantly, and provides a centralized live dashboard for monitoring, coordination, and rapid decision-making during critical events.
 
 ## Features
 
